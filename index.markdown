@@ -5,9 +5,9 @@ title: "Ismael Correa Castro - Profile"
 
 # Welcome!
 
-I'm [Ismael Correa Castro](https://github.com/Iarfen/), I'm a scientist and this website presents my inventions, the ones which I've decided to make public.
+I'm [Ismael Correa Castro](https://github.com/Iarfen), I'm a scientist and this website presents my inventions, the ones which I've decided to make public.
 
-I've created a wide amount of inventions, among the better of them is the **Bioeditor**, also called **DNA Editor**, which is a program that allows to edit all the genome of a life form and create then new life forms, a 3d file format very lightweight called **L3D**, a file format for creating digital worlds called **DWML**, a **role materializer**, which is a technology that creates RPG games in real life.
+I've created a wide amount of inventions, among the better of them is the **Bioeditor**, also called **DNA Editor**, which is a program that allows to edit all the genome of a life form and create then new life forms, a 3d file format very lightweight called **L3D**, a file format for creating digital worlds called **DWML**, a **role materializer**, which is a technology that creates RPG games in real life. With the Bioeditor I've invented the **creational biology**, which is defined as the branch of biology that deals about creating life forms.
 
 ## My scientific career
 
@@ -69,11 +69,12 @@ The projects I've realized and that are then of my authorship are the following:
 
 - **Bioeditor** (previously called **DNA Editor**)**:** A program that allows to edit all the genome of an organism to modify it, or to create new organisms based on that genome.
 - **Creational biology:** Theories and ideas about the branch of biology which I've called creational biology, which deals about homunculous, which are animals created artificially.
-- **L3D file format:** A very lightweight 3d file format, the lightest of the 3d file formats, and then I defend it as the better of them.
+- **L3D file format:** A very lightweight 3d file format, the lightest of the 3d file formats, and then I defend it as the better of them. [View L3D file format](https://github.com/scifir/l3d-file-format)
 - **Role materializer:** It's a set of cubes with screen that stacked together can represent virtually any place or building. It allows to create RPGs in real life.
 - **DWML file format:** A file format that allows to create digital worlds.
-- **Science file formats:** Various file formats. **DNA** file format for storing DNA, **SMF** to represent molecules, **SFF** to represent food, **AMF** to represent matter.
+- **Science file formats:** Various file formats. **DNA** file format for storing DNA, **SMF** to represent molecules, **SFF** to represent food, **AMF** to represent matter. [View DNA file format](https://github.com/scifir/dna-file-format)
+- **Scifir Collection:** Set of libraries to create the software of laboratory machines and scientific desktop software. [View scifir-units](https://github.com/scifir/scifir-units)
 - **Spaceships theories and ideas:** I've written various theories and ideas about spaceships.
-- **CWD file format:** A file format to create new words and bywords.
+- **CWD file format:** A file format to create new words and bywords. [View CWD file format](https://github.com/scifir/cwd-file-format)
 - Among other projects, not yet released publicly.
 
